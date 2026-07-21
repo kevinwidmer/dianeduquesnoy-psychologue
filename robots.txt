@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://www.dianeduquesnoy-psychologue.fr/sitemap.xml
